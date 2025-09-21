@@ -1,0 +1,7 @@
+import cv2         # For image/video processing
+import numpy as np # For matrix and array operations
+import os          # File handling
+import json        # Save/load pattern data
+tkinter → simple UI for controls
+PyQt5 → advanced UI
+matplotlib → visualize patterns before saving
